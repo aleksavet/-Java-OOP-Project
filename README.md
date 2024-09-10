@@ -1,12 +1,12 @@
 **My project is about a travel manager**. 
 I created a travel planning program that makes organizing your trip easier and more enjoyable. Here’s how it works:
 
-Personal Preferences: I start with a quick questionnaire to understand your climate and food preferences.
-Country Suggestions: Based on your answers, the program suggests a few countries you might like.
-Booking and Planning: Once you pick a country, I handle booking flights, finding hotels or rental houses, and planning your entire trip. This includes figuring out how you’ll get around and suggesting activities based on your interests.
-Budget Management: I keep track of your expenses to help you stay within your budget.
-Local Tips: I provide information on local attractions, recommend restaurants for authentic dishes, and give you tips on where to enjoy the best local cuisine.
-The goal is to save you time and ensure you have a personalized, stress-free travel experience.
+Personal Preferences: I start with a quick questionnaire to understand your climate and food preferences.<br>
+Country Suggestions: Based on your answers, the program suggests a few countries you might like.<br>
+Booking and Planning: Once you pick a country, I handle booking flights, finding hotels or rental houses, and planning your entire trip. This includes figuring out how you’ll get around and suggesting activities based on your interests.<br>
+Budget Management: I keep track of your expenses to help you stay within your budget.<br>
+Local Tips: I provide information on local attractions, recommend restaurants for authentic dishes, and give you tips on where to enjoy the best local cuisine.<br>
+The goal is to save you time and ensure you have a personalized, stress-free travel experience.<br>
 
 
 ## Key Features:
