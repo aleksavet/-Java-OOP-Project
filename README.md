@@ -1,4 +1,4 @@
-**My project is about a travel manager**.  **TravelTrove**
+**My project is about a travel manager**.<br>  **TravelTrove**<br>
 I created a travel planning program that makes organizing your trip easier and more enjoyable. Here’s how it works:
 
 Personal Preferences: I start with a quick questionnaire to understand your climate and food preferences.<br>
