@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"Attraction"},{"l":"Booking"},{"l":"Country"},{"l":"Final_print"},{"l":"TravelTrove"},{"l":"User"}];updateSearchResults();
